@@ -16,6 +16,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r group_members}
 
 # 1. Alex Galentovsky - 20335070
+# 2. Darcy Talbot - 20464912
+# 3. Maie Trinity Wyshynski - 20394829
+# 4. Dev Patel - 20452825
+# 5. Elijah Dipchand - 20332206
+# 6. 
 
 ```
 
@@ -33,6 +38,7 @@ Load the packages you will use (Chapter 10, *Setup*): `dplyr`, `tidyr`, `lubrida
 ```{r load-packages, message=FALSE}
 library(tidyverse)
 library(lubridate)
+
 
 ```
 
